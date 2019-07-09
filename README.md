@@ -26,3 +26,6 @@ Accuracy - 74.45%
 
 ### Predictions
 ![image info](./Predictions/0.png)
+![image info](./Predictions/1.png)
+![image info](./Predictions/2.png)
+![image info](./Predictions/3.png)
