@@ -25,4 +25,4 @@ https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 Accuracy - 74.45%
 
 ### Predictions
-![alt text][Predictions/0.png]
+![image info](./Predictions/0.png)
